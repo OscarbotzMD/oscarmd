@@ -1,5 +1,5 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
-let text = `*––––––『 MAU NGAPAIN OM 』––––––*
+let text = `*––––––『 https://youtu.be/RTmF8GXw6XE DI SITU OM JANGAN LUPA SUSCRIBE 』––––––*
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: '🐈 My Istagram 🐈', url: web}},
